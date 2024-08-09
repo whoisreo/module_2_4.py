@@ -13,5 +13,3 @@ for i in range(2, 16):
 
 print('Primes:', primes)
 print('Not Primes:', not_primes)
-
-
